@@ -22,6 +22,11 @@ public class CheckingAccount extends BaseAccount {
     }
 
     @Override
+    public double getBalance() {
+        return balance;
+    }
+
+    @Override
     public void deposit(double amount) {
         // Create conditional statement to check amount
         // if condition is met then apply amount and send customer confirmation

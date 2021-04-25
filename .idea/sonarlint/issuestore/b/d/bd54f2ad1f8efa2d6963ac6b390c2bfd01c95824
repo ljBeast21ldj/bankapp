@@ -1,29 +1,43 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰³ñ©şÿÿÿÿ8…ìî³/
-T	java:S106@"9Replace this use of System.out or System.err by a logger.(ğàš8Ùó®³/
-U	java:S106C"9Replace this use of System.out or System.err by a logger.(™¬Ç•8ö™¸³/
-U	java:S106H"9Replace this use of System.out or System.err by a logger.(æ¼×Ì8ªœÆ³/
-Y
-java:S1854"<Remove this useless assignment to local variable "accounts".(à²­8Èâ¤³/
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(¬ÉÀó8ÌÏ¯´/
-U	java:S106."9Replace this use of System.out or System.err by a logger.(â¾û‡8ÛÎ‘´/
-U	java:S106?"9Replace this use of System.out or System.err by a logger.(‡‹¿Æ8Ùó®³/
-Z	java:S106B"9Replace this use of System.out or System.err by a logger.(²È©ûøÿÿÿÿ8ù•¯³/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(«àï„ıÿÿÿÿ8æøì³/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ÁÛø¡8›ÁÍ/
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(øôäç8¿ñóĞ/
+[	java:S106•"9Replace this use of System.out or System.err by a logger.(²È©ûøÿÿÿÿ8ù•¯³/
+V	java:S106—"9Replace this use of System.out or System.err by a logger.(š”¹Ï8ö™¸³/
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(´ªô•ÿÿÿÿÿ8—–´Í/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ö’×À8Ï°ù³/
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(±›¹»8®—´/
 U
-java:S1197 "8Move the array designator from the variable to the type.(¹Ñƒ×8Îïü´/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ëà×µúÿÿÿÿ8ö”ç³/
+java:S1197>"8Move the array designator from the variable to the type.(£©ßı8Îïü´/
+Z
+java:S1197Q"8Move the array designator from the variable to the type.(şßÅ½ÿÿÿÿÿ8ƒè®Í/
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(¬ÉÀó8ÌÏ¯´/
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(®Ä­êûÿÿÿÿ8ã‘®³/
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(â¾û‡8ÛÎ‘´/
+Z
+java:S1197d"8Move the array designator from the variable to the type.(µİßÛıÿÿÿÿ8é½ÂÎ/
+U	java:S106“"9Replace this use of System.out or System.err by a logger.(ğàš8Ùó®³/
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(ÁÛø¡8€ÆÆÎ/
+
+java:S1192L"bDefine a constant instead of duplicating this literal "No records match account number: " 3 times.(ÁÛø¡8€ÆÆÎ/
+U
+java:S11974"8Move the array designator from the variable to the type.(ßÏ»è8ÿìñÌ/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(‰³ñ©şÿÿÿÿ8…ìî³/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8º›Ï/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(´ªô•ÿÿÿÿÿ8‡®âÌ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(–¯Õ8µıÍ/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ÁÛø¡8—–´Í/
+V	java:S106”"9Replace this use of System.out or System.err by a logger.(Ú½Ÿê8ù•¯³/
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(ı“æì8ªœÆ³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÊôÔ”ÿÿÿÿÿ8ªÎÕÏ/
 U
 java:S1197"8Move the array designator from the variable to the type.(à²­8Èâ¤³/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(«àï„ıÿÿÿÿ8æøì³/
-J
-java:S1481
-".Remove this unused "userInput" local variable.( ¿Š]8ÇÇŸ³/
-J
-java:S1481"-Remove this unused "accounts" local variable.(à²­8Èâ¤³/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘Õ–»øÿÿÿÿ8Ï°ù³/
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(±›¹»8®—´/
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(®Ä­êûÿÿÿÿ8ã‘®³/
-U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ú½Ÿê8ù•¯³/
-Y
-java:S1854
-"=Remove this useless assignment to local variable "userInput".( ¿Š]8ÇÇŸ³/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(´ªô•ÿÿÿÿÿ8€ÆÆÎ/
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(Âã¹†8úĞõĞ/
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(‡‹¿Æ8Ùó®³/
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(ƒÕóöüÿÿÿÿ8—–´Í/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ìç™Ï/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ëà×µúÿÿÿÿ8ö”ç³/
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(Åê®Â8Éà‡Ï/
+€
+java:S1192@"^Define a constant instead of duplicating this literal "Please enter account number: " 3 times.(´ªô•ÿÿÿÿÿ8€ÆÆÎ/

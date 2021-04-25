@@ -1,0 +1,29 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰³ñ©şÿÿÿÿ8…ìî³/
+T	java:S106@"9Replace this use of System.out or System.err by a logger.(ğàš8Ùó®³/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(™¬Ç•8ö™¸³/
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(æ¼×Ì8ªœÆ³/
+Y
+java:S1854"<Remove this useless assignment to local variable "accounts".(à²­8Èâ¤³/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(¬ÉÀó8ÌÏ¯´/
+U	java:S106."9Replace this use of System.out or System.err by a logger.(â¾û‡8ÛÎ‘´/
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(‡‹¿Æ8Ùó®³/
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(²È©ûøÿÿÿÿ8ù•¯³/
+U
+java:S1197 "8Move the array designator from the variable to the type.(¹Ñƒ×8Îïü´/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ëà×µúÿÿÿÿ8ö”ç³/
+U
+java:S1197"8Move the array designator from the variable to the type.(à²­8Èâ¤³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«àï„ıÿÿÿÿ8æøì³/
+J
+java:S1481
+".Remove this unused "userInput" local variable.( ¿Š]8ÇÇŸ³/
+J
+java:S1481"-Remove this unused "accounts" local variable.(à²­8Èâ¤³/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘Õ–»øÿÿÿÿ8Ï°ù³/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(±›¹»8®—´/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(®Ä­êûÿÿÿÿ8ã‘®³/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(Ú½Ÿê8ù•¯³/
+Y
+java:S1854
+"=Remove this useless assignment to local variable "userInput".( ¿Š]8ÇÇŸ³/
